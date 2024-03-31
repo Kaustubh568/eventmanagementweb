@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.weddingwire.in	TRUE	/	FALSE	1999999999	gp_anon_id	f831aa37-9358-4c49-bee6-4e3020c58617
+.weddingwire.in	TRUE	/	FALSE	1999999999	BFP_UR	10011289
+.weddingwire.in	TRUE	/	FALSE	1999999999	pt	%7B%22o%22%3A1005%7D
+weddingwire.in	TRUE	/	FALSE	1999999999	refWWs	0
+www.weddingwire.in	TRUE	/	FALSE	1999999999	samesite	lax
+.weddingwire.in	TRUE	/	FALSE	1999999999	lusl	%7B%22type%22%3A%22region%22%2C%22id%22%3A10010427%7D
+.weddingwire.in	TRUE	/	FALSE	1999999999	pti	%7B%22RE%22%3A10010427%2C%22SE%22%3A646%7D
+www.weddingwire.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+weddingwire.in	TRUE	/	FALSE	1999999999	gp_listing_show_mode	deleted
+weddingwire.in	TRUE	/	FALSE	1999999999	messageRequestSuccess	deleted
+www.weddingwire.in	TRUE	/	FALSE	1999999999	PHPSESSID	ekkicubmbmhh9pgvqekk7tkr4b
+
